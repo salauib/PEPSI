@@ -1,0 +1,50 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747784;
+    font-weight: 300;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.pep {
+    width: 300px;
+    height: 300px;
+}
+
+hr {
+    border-top: 1px solid #BCBBBB;
+    margin-bottom: 30px;
+}
+
+.biggy {
+    width: 100%;
+}
+
+.text-muted {
+    color: #BCBBBB;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+h3, p {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 15px;
+}
+
+a {
+    color: #747784;
+}
+a:hover {
+    text-decoration: none;
+    color: #747784;
+}
